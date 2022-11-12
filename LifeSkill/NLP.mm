@@ -93,5 +93,17 @@
 	TEXT="katakan-saya cari ide dulu"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1800796407" POSITION="right" 
+	TEXT="Kata2 negatif-jangan dipakai">
+<node FOLDED="true" ID="ID_1911222879" 
+	TEXT="self labeling buruk">
+<node ID="ID_562299103" 
+	TEXT="lawan bicara -&gt; teman bicara"/>
+</node>
+<node ID="ID_615553970" 
+	TEXT="survive vs bertahan"/>
+<node ID="ID_170763624" 
+	TEXT="iseng vs serius/memutuskan"/>
+</node>
 </node>
 </map>
